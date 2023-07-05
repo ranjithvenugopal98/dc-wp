@@ -7,7 +7,7 @@
  */
 
 define( 'WP_INSTALLING', true );
-
+hehe
 /** Sets up the WordPress Environment. */
 require __DIR__ . '/wp-load.php';
 
